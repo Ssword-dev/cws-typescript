@@ -1,0 +1,10 @@
+# NPM
+node_modules/
+
+# Env
+.env
+.env.*
+
+# Build
+**/.tsbuildinfo
+.dist/
